@@ -31,4 +31,56 @@ A, a (area) Phys क्षे, क्ष (क्षेत्रफल)
 A (Argas) Zool मृ (मृदुवरूथि-प्रजाति) 
 A (aigon) Chem म (मदाति) 
 @(at the rate of) अ/ (के अर्घ से) 
-A (current) Phys 1 (in absolute units) 
+A (current) Phys
+  1 (in absolute units) व (वाह) 
+  2 (in practical units) वा (वाह) 
+A (mass number) Phys प (पुञ्जाङ्क) 
+a (alpha) अ 
+a-particle अ लव
+a ray अ रश्मि 
+a-spore अ-बीीजाणु (alpha spore अकार बीजाणु) 
+a, a (fraction absorbed) Phys क्ष (प्रचूषित प्रभाग) 
+a (angle) Phys अ (कोण) 
+a (atomic weight) प (परमाणु-भार) 
+a (coefficient of linear or volume er pansion) Phys अ
+Al, A one adj (first-rate) सर्वप्रथम, वरेण्य, अ १
+AA (acting allowance) का. अ. (कार्य-करण अधिदेय) 
+AA (Agricultural Assistant) कृ. स. (कृषि-सहायक) 
+AA (Assistant Accountant) स. ले. (महायक लेखापाल) 
+A acid Chem. क अम्ल 
+a (alpha) acid Chem. अ अम्ल 
+A and B class prisoners प्रथम और द्वितीय श्रेणी के बन्दी 
+Aani Egypt.Relig. श्वकपि m. (dogheaded ape श्वशीर्ष कपि) 
+aar (an underground stream) अन्तर्नदी f.
+aardvark (they feed -अश entirely on ants वम्र) वम्राश m. (genus Orycter opus वम्राश-प्रजाति, family Orycteropodidae वम्राश-वंश, Orycteropus capensis is the ordinary aardvark सामान्य वम्राश)
+aardwolf (it has stripod coat) चित्रवृक m. (genus Proteles चित्रवृक-प्रजाति, family Protelidae चित्रवृक-वंश, Proteles cristata is the ordinary aardwolf सामान्य चित्रवृक) 
+Aaron's-beard (any of several plants having some 10semblance to a beard) वृद्धकूर्च m.
+Aaron's rod
+  1 (any of several plants with a tall flowering stem) प्रांशुक m. (प्रांशु tall) 
+  2 (Solidago virga-aurea) कनकशलाका f. 
+  3 (Stachytarpheta indica) भारत घन-शूकी f. 
+  4 (Verbascum thapsus) स्वर्णधान्य m.
+A.A.S. (anti-anthrax serum) प्र.प्ली.ल. (प्रति-प्लीहज्वर लसी) 
+aasvogel (vulture) गृध m., गीध 
+ab-अप- ('away, from'; Latin ab-, Greek apo- and English off are akin to Sanskrit अप-) 
+ab- (absolute) Phys. र. (प्रकेवल) 
+A.B. (agreement bond) सं.ब. (संविद्-बन्ध) Ab, Am (alabamine) Chem. ला (लावणी) 
+ab abusu ad usum non valet conse-quentia Lata (from the abuse of a thing you can draw no conclusion as to its legitimate use) दुरुपयोगान्न सदुपयोगोऽनुमातुं शक्यते । किसी वस्तु के दुरुपयोग से हम यह अनुमान नहीं कर सकते कि उसका सदुपयोग क्या है। 
+abaca Manila hemp 
+abacist (one who uses an abacus) गणित्रिक m. 
+aback adv. 1 पश्चात्, पीछे 
+  2 (against the mast कूपक) प्रतिकूपक taken aback चक्रित, विस्मयस्तब्ध 
+  all aback 1 (entirely aback) सर्वथा पश्चात् 
+  2 (stopped) परिस्तब्ध 
+  3 (reversed) त्रिपरीत 
+abactinal=aboral Zool. विमुख 
+abaction Law (cattle-stealing) पशुचौर्य, यूथहरण ११. 
+abactor Law (a stealer and driver away of cattle or beasts by herds) यूथहर्ता (-तृ) m. (opp. fur) 
+abaculus (a tile खर्परी used in mosaic चित्रकुट्टिम) चित्र-खर्परी f. 
+abacus 1 (a calculating instrument) गोलिका-गणित्र, गणित्र n. 
+  2 Arch. (uppermost division of a capital) फलका f., शीर्षफलक n. (Tamil फलगै)
+  3 Logic (a machine showing all the combinations of a number of terms) पद-समूह-यन्त्र, समूह-यन्त्र, समूहित्र . 
+abacus major (a trough used in washing gold) स्वर्ण-द्रोणी, स्वर्ण-धावनी f. 
+abaft adv. पश्चात्, पीछे 
+abaiser (ivory black) हस्तिदन्त-कालिमा (-मन्) m. 
+abaisse (thin undercrust of pastry) अधःपर्पटी. (अधः under, पर्पटी thin crust)
